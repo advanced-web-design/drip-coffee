@@ -1,4 +1,4 @@
-project-base
+drip-coffee
 ============
 
-A base template for course projects
+Drip coffee class example.
